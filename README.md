@@ -76,7 +76,6 @@ docker-compose up -d
 ```
 docker-compose ps
 ```
-![Captura de Tela (66)](https://user-images.githubusercontent.com/65691783/83930228-e34cf700-a76c-11ea-8249-8597a3192734.png)
 
 ###### 15. Acessar o navegador web e verificar se a aplicação está no *"localhost"*, conforme mostra a imagem abaixo:
 
